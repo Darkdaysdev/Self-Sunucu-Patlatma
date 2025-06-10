@@ -4,7 +4,7 @@
 
 ## 🎉 Bilgilendirme;
 
-- Destek Almak İçin [darkdaysdev](https://discord.com/users/901094423033708576) & [kayarouxel](https://discord.com/users/1183921141543358494) Dm Yazabilirsiniz!
+- Destek Almak İçin [darkdaysdev](https://discord.com/users/343751322299924481) & [kayarouxel](https://discord.com/users/1183921141543358494) Dm Yazabilirsiniz!
 
 ## ⚡Kurulum;
 
